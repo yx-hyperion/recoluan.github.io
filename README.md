@@ -7,7 +7,7 @@ modules:
 banner:
   bgImage: '/banner_2.jpg'
   bgImageStyle: {
-    height: '450px'
+    height: '850px'
   }
   heroImage: /hero_black.png
   heroImageStyle: {
@@ -15,12 +15,12 @@ banner:
     display: block,
     margin: '5rem auto 0'
   }
-  heroText: 午后南杂
+  heroText: 测试
   tagline: Enjoy when you can, and endure when you must.
 blog:
   socialLinks:
-    - { icon: 'BrandGithub', link: 'https://github.com/recoluan' }
-    - { icon: 'BrandTwitter', link: 'https://twitter.com/reco_luan' }
+    - { icon: 'BrandGithub', link: 'https://github.com/yx-hyperion' }
+    - { icon: 'BrandWeibo', link: 'https://baidu.com' }
 footer:
   startYear: '2017'
 # actionText: About Me
